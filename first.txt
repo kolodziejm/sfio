@@ -1,0 +1,2 @@
+It happens due to floating point rounding errors. The problem is that the floating point numbers are not exact, they are approximations.
+We could use the bignumber.js library for performing calculations.

@@ -1,0 +1,2 @@
+I'd keep each microservice in a separate repository (polyrepo strategy).
+In order to enforce consistency between them, I'd use NestJS as a framework for each of the microservices.
